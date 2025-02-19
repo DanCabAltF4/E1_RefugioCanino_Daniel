@@ -13,6 +13,8 @@ public class MainRefugioCanino {
         // Agregar algunos perros al refugio
         refugio.agregarPerro("Max", "Labrador");
         refugio.agregarPerro("Bella", "Pastor Alemán");
+        //Perro nuevo!!!!
+        refugio.agregarPerro("Nabe", "Coker Espaniel"); //No se si la raza se escribe asi
 
         // Mostrar la lista de perros en el refugio
         System.out.println("\nLista de perros en el refugio:");
